@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@600&display=swap');
+body{
+    background-color:wheat;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 2px;
+    font-size: larger;
+    
+}
+.outer-box{
+    height:450px;
+    width: 400px;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 10%;
+    padding-top: 2px;
+}
+.img{
+    margin: 19px;
+    border-radius: 20px;
+    overflow: hidden;
+     
+    
+}
+hr{
+    width: 70%;
+     margin-left: 19px; 
+    height: 1px;
+    background-color: rgb(163, 163, 163);
+
+}
+h3{
+    width: 250;
+    height: 20px;
+    margin-left: 19px;
+}
+.price{
+    display: inline;
+    margin-left: 19px;
+    color: cornflowerblue;
+    font-weight: 1000;
+}
+.del{
+    display: inline;
+    margin-left: 2px;
+    color: rgb(102, 100, 100);
+    font-weight: 900;
+}
+.btn{
+    display: inline;
+    background-color: mediumspringgreen;
+    border-radius: 5px;
+    color:white ;
+    margin-left: 5px;
+    padding: 5px;
+
+}
+
